@@ -1,0 +1,102 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	font-family: arial;
+}
+#contenedora{
+	box-shadow: 0 0 12px rgba(0,0,0,0.8)
+	margin:0 auto;
+	max-width: 1440px;
+	width: 100%;
+
+}
+section{
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 1100px;
+	margin: 0 auto;
+	max-width: 1440px;
+	overflow: hidden;
+	padding: 0;
+	position: relative;
+	width: 100%;
+
+}
+#bloque1{
+	background-image: url( "../ima/fondo4.jpg")
+}
+#bloque2{
+	background-image: url( "../ima/fondo2.jpg")       
+}
+#bloque3{
+	background-image: url( "../ima/fondo1.jpg")
+}
+#bloque4{
+	background-image: url( "../ima/fondo4.jpg")
+
+}
+h1{
+	background-color: #072;
+	display: block;
+	font-size: 5em;
+	font-weight: bold;
+	margin-top: 3em;
+	opacity: 0,76;
+	text-align: center;
+	text-shadow: 1px 1px 1px #666;
+	text-transform: uppercase;
+	width: 100%;
+}
+h2{
+	background-color: #050;
+	color:#fff;
+	font-size:4em;
+	font-weight:bold;
+	margin-top:3em;
+	opacity:0.85;
+	text-align: center;
+	text-shadow: 1px 1px 1px #ccc;
+	text-transform: uppercase;
+}
+#logo{
+	display: block;
+	margin: 7em auto 0;
+	opacity: 0.8;
+	width: 200px;
+
+}
+#haber{
+	font-family:  ;
+	
+}
+#bloque2 p{
+	background-color: rgba(255,255,255,0.8);
+	color: #333;
+	font-size: 1.2em;
+	font-weight: 
+}
+p{
+	background-color:#fff;
+	font-size: 3em;
+	text-align: center;
+
+}
+#jar{
+	text-shadow: 1px 1px 1px #fff;
+	float: ;
+	width: 200px;
+	height: 200px;
+	margin: 20px auto;
+}
+iframe{: 1px 1px 1px #fff;
+	float: ;
+	width: 200px;
+	height: 200px;
+	margin: 20px auto;
+}
+ 
+
